@@ -9,7 +9,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/your-repo/ticket-booking.git'
+                git 'https://github.com/Abhishek2003-boot/Ticket_booking'
             }
         }
 
